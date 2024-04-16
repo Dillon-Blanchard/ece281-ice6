@@ -7,6 +7,8 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 Tested on Windows 11.
 
 ---
+## Documentation Statement
+ - Was shared code on basys 3 master file on which switches, buttons, segments and clk to uncomment.
 
 ## Build the project
 
